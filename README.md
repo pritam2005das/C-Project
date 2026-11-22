@@ -59,7 +59,7 @@ cd C-Project
 ### 3. Compile the Program
 
 ```bash
-gcc main.c -o database
+gcc database.c -o database
 ```
 
 
