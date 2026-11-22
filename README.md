@@ -41,7 +41,7 @@ C-DBMS/
 ├── main.c
 ├── database.db
 └── README.md
-```text
+```
 `database.db` is generated automatically when the application saves database information.
 
 ## How to Run
