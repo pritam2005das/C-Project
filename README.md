@@ -1,4 +1,4 @@
-# C-Based Database Management System (DBMS)
+# C-Based Database Management System
 
 A simple command-line Database Management System developed using **C programming**. This project demonstrates fundamental DBMS operations, data structures, dynamic memory allocation, pointers, and file handling.
 
