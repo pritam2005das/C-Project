@@ -49,15 +49,18 @@ C-DBMS/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/YOUR-USERNAME/C-DBMS.git
+```
 
 ### 2. Navigate to the Project Directory
 ```bash
 cd C-DBMS
+```
 
 ### 3. Compile the Program
 
 ```bash
 gcc main.c -o database
+```
 
 
 ### 4. Run the Program
