@@ -48,7 +48,7 @@ C-DBMS/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/C-DBMS.git
+git clone https://github.com/pritam2005das/C-DBMS.git
 ```
 
 ### 2. Navigate to the Project Directory
