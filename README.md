@@ -48,12 +48,12 @@ C-DBMS/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/pritam2005das/C-DBMS.git
+git clone https://github.com/pritam2005das/C-Project.git
 ```
 
 ### 2. Navigate to the Project Directory
 ```bash
-cd C-DBMS
+cd C-Project
 ```
 
 ### 3. Compile the Program
