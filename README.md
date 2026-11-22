@@ -1,1 +1,1 @@
-# C-Project
+# Basic DBMS using C
